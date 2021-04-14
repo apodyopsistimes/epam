@@ -1,0 +1,13 @@
+C:\Users\37533\source\repos\ConsoleApp2LAB1-17variant\ConsoleApp2LAB1-17variant\bin\Debug\netcoreapp3.1\ConsoleApp2LAB1-17variant.exe
+C:\Users\37533\source\repos\ConsoleApp2LAB1-17variant\ConsoleApp2LAB1-17variant\bin\Debug\netcoreapp3.1\ConsoleApp2LAB1-17variant.deps.json
+C:\Users\37533\source\repos\ConsoleApp2LAB1-17variant\ConsoleApp2LAB1-17variant\bin\Debug\netcoreapp3.1\ConsoleApp2LAB1-17variant.runtimeconfig.json
+C:\Users\37533\source\repos\ConsoleApp2LAB1-17variant\ConsoleApp2LAB1-17variant\bin\Debug\netcoreapp3.1\ConsoleApp2LAB1-17variant.runtimeconfig.dev.json
+C:\Users\37533\source\repos\ConsoleApp2LAB1-17variant\ConsoleApp2LAB1-17variant\bin\Debug\netcoreapp3.1\ConsoleApp2LAB1-17variant.dll
+C:\Users\37533\source\repos\ConsoleApp2LAB1-17variant\ConsoleApp2LAB1-17variant\bin\Debug\netcoreapp3.1\ConsoleApp2LAB1-17variant.pdb
+C:\Users\37533\source\repos\ConsoleApp2LAB1-17variant\ConsoleApp2LAB1-17variant\obj\Debug\netcoreapp3.1\ConsoleApp2LAB1-17variant.csprojAssemblyReference.cache
+C:\Users\37533\source\repos\ConsoleApp2LAB1-17variant\ConsoleApp2LAB1-17variant\obj\Debug\netcoreapp3.1\ConsoleApp2LAB1-17variant.AssemblyInfoInputs.cache
+C:\Users\37533\source\repos\ConsoleApp2LAB1-17variant\ConsoleApp2LAB1-17variant\obj\Debug\netcoreapp3.1\ConsoleApp2LAB1-17variant.AssemblyInfo.cs
+C:\Users\37533\source\repos\ConsoleApp2LAB1-17variant\ConsoleApp2LAB1-17variant\obj\Debug\netcoreapp3.1\ConsoleApp2LAB1-17variant.csproj.CoreCompileInputs.cache
+C:\Users\37533\source\repos\ConsoleApp2LAB1-17variant\ConsoleApp2LAB1-17variant\obj\Debug\netcoreapp3.1\ConsoleApp2LAB1-17variant.dll
+C:\Users\37533\source\repos\ConsoleApp2LAB1-17variant\ConsoleApp2LAB1-17variant\obj\Debug\netcoreapp3.1\ConsoleApp2LAB1-17variant.pdb
+C:\Users\37533\source\repos\ConsoleApp2LAB1-17variant\ConsoleApp2LAB1-17variant\obj\Debug\netcoreapp3.1\ConsoleApp2LAB1-17variant.genruntimeconfig.cache

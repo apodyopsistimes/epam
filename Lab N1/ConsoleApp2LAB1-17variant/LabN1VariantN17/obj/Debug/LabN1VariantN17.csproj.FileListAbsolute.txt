@@ -1,0 +1,7 @@
+C:\Users\37533\Desktop\EPAM LAB\Lab N1\ConsoleApp2LAB1-17variant\LabN1VariantN17\bin\Debug\LabN1VariantN17.exe.config
+C:\Users\37533\Desktop\EPAM LAB\Lab N1\ConsoleApp2LAB1-17variant\LabN1VariantN17\bin\Debug\LabN1VariantN17.exe
+C:\Users\37533\Desktop\EPAM LAB\Lab N1\ConsoleApp2LAB1-17variant\LabN1VariantN17\bin\Debug\LabN1VariantN17.pdb
+C:\Users\37533\Desktop\EPAM LAB\Lab N1\ConsoleApp2LAB1-17variant\LabN1VariantN17\obj\Debug\LabN1VariantN17.csprojAssemblyReference.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N1\ConsoleApp2LAB1-17variant\LabN1VariantN17\obj\Debug\LabN1VariantN17.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N1\ConsoleApp2LAB1-17variant\LabN1VariantN17\obj\Debug\LabN1VariantN17.exe
+C:\Users\37533\Desktop\EPAM LAB\Lab N1\ConsoleApp2LAB1-17variant\LabN1VariantN17\obj\Debug\LabN1VariantN17.pdb
