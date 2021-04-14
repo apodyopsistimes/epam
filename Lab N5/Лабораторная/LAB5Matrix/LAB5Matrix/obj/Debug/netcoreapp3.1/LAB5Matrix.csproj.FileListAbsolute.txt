@@ -1,0 +1,26 @@
+C:\Users\37533\source\repos\LAB5Matrix\LAB5Matrix\bin\Debug\netcoreapp3.1\LAB5Matrix.exe
+C:\Users\37533\source\repos\LAB5Matrix\LAB5Matrix\bin\Debug\netcoreapp3.1\LAB5Matrix.deps.json
+C:\Users\37533\source\repos\LAB5Matrix\LAB5Matrix\bin\Debug\netcoreapp3.1\LAB5Matrix.runtimeconfig.json
+C:\Users\37533\source\repos\LAB5Matrix\LAB5Matrix\bin\Debug\netcoreapp3.1\LAB5Matrix.runtimeconfig.dev.json
+C:\Users\37533\source\repos\LAB5Matrix\LAB5Matrix\bin\Debug\netcoreapp3.1\LAB5Matrix.dll
+C:\Users\37533\source\repos\LAB5Matrix\LAB5Matrix\bin\Debug\netcoreapp3.1\LAB5Matrix.pdb
+C:\Users\37533\source\repos\LAB5Matrix\LAB5Matrix\obj\Debug\netcoreapp3.1\LAB5Matrix.csprojAssemblyReference.cache
+C:\Users\37533\source\repos\LAB5Matrix\LAB5Matrix\obj\Debug\netcoreapp3.1\LAB5Matrix.AssemblyInfoInputs.cache
+C:\Users\37533\source\repos\LAB5Matrix\LAB5Matrix\obj\Debug\netcoreapp3.1\LAB5Matrix.AssemblyInfo.cs
+C:\Users\37533\source\repos\LAB5Matrix\LAB5Matrix\obj\Debug\netcoreapp3.1\LAB5Matrix.csproj.CoreCompileInputs.cache
+C:\Users\37533\source\repos\LAB5Matrix\LAB5Matrix\obj\Debug\netcoreapp3.1\LAB5Matrix.dll
+C:\Users\37533\source\repos\LAB5Matrix\LAB5Matrix\obj\Debug\netcoreapp3.1\LAB5Matrix.pdb
+C:\Users\37533\source\repos\LAB5Matrix\LAB5Matrix\obj\Debug\netcoreapp3.1\LAB5Matrix.genruntimeconfig.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 5\LAB5Matrix\LAB5Matrix\bin\Debug\netcoreapp3.1\LAB5Matrix.exe
+C:\Users\37533\Desktop\EPAM LAB\LESSON 5\LAB5Matrix\LAB5Matrix\bin\Debug\netcoreapp3.1\LAB5Matrix.deps.json
+C:\Users\37533\Desktop\EPAM LAB\LESSON 5\LAB5Matrix\LAB5Matrix\bin\Debug\netcoreapp3.1\LAB5Matrix.runtimeconfig.json
+C:\Users\37533\Desktop\EPAM LAB\LESSON 5\LAB5Matrix\LAB5Matrix\bin\Debug\netcoreapp3.1\LAB5Matrix.runtimeconfig.dev.json
+C:\Users\37533\Desktop\EPAM LAB\LESSON 5\LAB5Matrix\LAB5Matrix\bin\Debug\netcoreapp3.1\LAB5Matrix.dll
+C:\Users\37533\Desktop\EPAM LAB\LESSON 5\LAB5Matrix\LAB5Matrix\bin\Debug\netcoreapp3.1\LAB5Matrix.pdb
+C:\Users\37533\Desktop\EPAM LAB\LESSON 5\LAB5Matrix\LAB5Matrix\obj\Debug\netcoreapp3.1\LAB5Matrix.csprojAssemblyReference.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 5\LAB5Matrix\LAB5Matrix\obj\Debug\netcoreapp3.1\LAB5Matrix.AssemblyInfoInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 5\LAB5Matrix\LAB5Matrix\obj\Debug\netcoreapp3.1\LAB5Matrix.AssemblyInfo.cs
+C:\Users\37533\Desktop\EPAM LAB\LESSON 5\LAB5Matrix\LAB5Matrix\obj\Debug\netcoreapp3.1\LAB5Matrix.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 5\LAB5Matrix\LAB5Matrix\obj\Debug\netcoreapp3.1\LAB5Matrix.dll
+C:\Users\37533\Desktop\EPAM LAB\LESSON 5\LAB5Matrix\LAB5Matrix\obj\Debug\netcoreapp3.1\LAB5Matrix.pdb
+C:\Users\37533\Desktop\EPAM LAB\LESSON 5\LAB5Matrix\LAB5Matrix\obj\Debug\netcoreapp3.1\LAB5Matrix.genruntimeconfig.cache
