@@ -1,0 +1,39 @@
+C:\Users\37533\source\repos\LAB317var\LAB317var\bin\Debug\netcoreapp3.1\LAB317var.exe
+C:\Users\37533\source\repos\LAB317var\LAB317var\bin\Debug\netcoreapp3.1\LAB317var.deps.json
+C:\Users\37533\source\repos\LAB317var\LAB317var\bin\Debug\netcoreapp3.1\LAB317var.runtimeconfig.json
+C:\Users\37533\source\repos\LAB317var\LAB317var\bin\Debug\netcoreapp3.1\LAB317var.runtimeconfig.dev.json
+C:\Users\37533\source\repos\LAB317var\LAB317var\bin\Debug\netcoreapp3.1\LAB317var.dll
+C:\Users\37533\source\repos\LAB317var\LAB317var\bin\Debug\netcoreapp3.1\LAB317var.pdb
+C:\Users\37533\source\repos\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.csprojAssemblyReference.cache
+C:\Users\37533\source\repos\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.AssemblyInfoInputs.cache
+C:\Users\37533\source\repos\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.AssemblyInfo.cs
+C:\Users\37533\source\repos\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.csproj.CoreCompileInputs.cache
+C:\Users\37533\source\repos\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.dll
+C:\Users\37533\source\repos\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.pdb
+C:\Users\37533\source\repos\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.genruntimeconfig.cache
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 3\LAB317var\LAB317var\bin\Debug\netcoreapp3.1\LAB317var.exe
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 3\LAB317var\LAB317var\bin\Debug\netcoreapp3.1\LAB317var.deps.json
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 3\LAB317var\LAB317var\bin\Debug\netcoreapp3.1\LAB317var.runtimeconfig.json
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 3\LAB317var\LAB317var\bin\Debug\netcoreapp3.1\LAB317var.runtimeconfig.dev.json
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 3\LAB317var\LAB317var\bin\Debug\netcoreapp3.1\LAB317var.dll
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 3\LAB317var\LAB317var\bin\Debug\netcoreapp3.1\LAB317var.pdb
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 3\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.csprojAssemblyReference.cache
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 3\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.AssemblyInfoInputs.cache
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 3\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.AssemblyInfo.cs
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 3\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 3\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.dll
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 3\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.pdb
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 3\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.genruntimeconfig.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 3\LAB317var\LAB317var\bin\Debug\netcoreapp3.1\LAB317var.exe
+C:\Users\37533\Desktop\EPAM LAB\LESSON 3\LAB317var\LAB317var\bin\Debug\netcoreapp3.1\LAB317var.deps.json
+C:\Users\37533\Desktop\EPAM LAB\LESSON 3\LAB317var\LAB317var\bin\Debug\netcoreapp3.1\LAB317var.runtimeconfig.json
+C:\Users\37533\Desktop\EPAM LAB\LESSON 3\LAB317var\LAB317var\bin\Debug\netcoreapp3.1\LAB317var.runtimeconfig.dev.json
+C:\Users\37533\Desktop\EPAM LAB\LESSON 3\LAB317var\LAB317var\bin\Debug\netcoreapp3.1\LAB317var.dll
+C:\Users\37533\Desktop\EPAM LAB\LESSON 3\LAB317var\LAB317var\bin\Debug\netcoreapp3.1\LAB317var.pdb
+C:\Users\37533\Desktop\EPAM LAB\LESSON 3\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.csprojAssemblyReference.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 3\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.AssemblyInfoInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 3\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.AssemblyInfo.cs
+C:\Users\37533\Desktop\EPAM LAB\LESSON 3\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 3\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.dll
+C:\Users\37533\Desktop\EPAM LAB\LESSON 3\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.pdb
+C:\Users\37533\Desktop\EPAM LAB\LESSON 3\LAB317var\LAB317var\obj\Debug\netcoreapp3.1\LAB317var.genruntimeconfig.cache
