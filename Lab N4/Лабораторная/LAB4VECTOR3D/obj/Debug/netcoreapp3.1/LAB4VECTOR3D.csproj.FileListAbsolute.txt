@@ -1,0 +1,26 @@
+C:\Users\37533\source\repos\LAB4VECTOR3D\LAB4VECTOR3D\obj\Debug\netcoreapp3.1\LAB4VECTOR3D.csprojAssemblyReference.cache
+C:\Users\37533\source\repos\LAB4VECTOR3D\LAB4VECTOR3D\obj\Debug\netcoreapp3.1\LAB4VECTOR3D.AssemblyInfoInputs.cache
+C:\Users\37533\source\repos\LAB4VECTOR3D\LAB4VECTOR3D\obj\Debug\netcoreapp3.1\LAB4VECTOR3D.AssemblyInfo.cs
+C:\Users\37533\source\repos\LAB4VECTOR3D\LAB4VECTOR3D\obj\Debug\netcoreapp3.1\LAB4VECTOR3D.csproj.CoreCompileInputs.cache
+C:\Users\37533\source\repos\LAB4VECTOR3D\LAB4VECTOR3D\bin\Debug\netcoreapp3.1\LAB4VECTOR3D.exe
+C:\Users\37533\source\repos\LAB4VECTOR3D\LAB4VECTOR3D\bin\Debug\netcoreapp3.1\LAB4VECTOR3D.deps.json
+C:\Users\37533\source\repos\LAB4VECTOR3D\LAB4VECTOR3D\bin\Debug\netcoreapp3.1\LAB4VECTOR3D.runtimeconfig.json
+C:\Users\37533\source\repos\LAB4VECTOR3D\LAB4VECTOR3D\bin\Debug\netcoreapp3.1\LAB4VECTOR3D.runtimeconfig.dev.json
+C:\Users\37533\source\repos\LAB4VECTOR3D\LAB4VECTOR3D\bin\Debug\netcoreapp3.1\LAB4VECTOR3D.dll
+C:\Users\37533\source\repos\LAB4VECTOR3D\LAB4VECTOR3D\bin\Debug\netcoreapp3.1\LAB4VECTOR3D.pdb
+C:\Users\37533\source\repos\LAB4VECTOR3D\LAB4VECTOR3D\obj\Debug\netcoreapp3.1\LAB4VECTOR3D.dll
+C:\Users\37533\source\repos\LAB4VECTOR3D\LAB4VECTOR3D\obj\Debug\netcoreapp3.1\LAB4VECTOR3D.pdb
+C:\Users\37533\source\repos\LAB4VECTOR3D\LAB4VECTOR3D\obj\Debug\netcoreapp3.1\LAB4VECTOR3D.genruntimeconfig.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 4\LAB4VECTOR3D\bin\Debug\netcoreapp3.1\LAB4VECTOR3D.exe
+C:\Users\37533\Desktop\EPAM LAB\LESSON 4\LAB4VECTOR3D\bin\Debug\netcoreapp3.1\LAB4VECTOR3D.deps.json
+C:\Users\37533\Desktop\EPAM LAB\LESSON 4\LAB4VECTOR3D\bin\Debug\netcoreapp3.1\LAB4VECTOR3D.runtimeconfig.json
+C:\Users\37533\Desktop\EPAM LAB\LESSON 4\LAB4VECTOR3D\bin\Debug\netcoreapp3.1\LAB4VECTOR3D.runtimeconfig.dev.json
+C:\Users\37533\Desktop\EPAM LAB\LESSON 4\LAB4VECTOR3D\bin\Debug\netcoreapp3.1\LAB4VECTOR3D.dll
+C:\Users\37533\Desktop\EPAM LAB\LESSON 4\LAB4VECTOR3D\bin\Debug\netcoreapp3.1\LAB4VECTOR3D.pdb
+C:\Users\37533\Desktop\EPAM LAB\LESSON 4\LAB4VECTOR3D\obj\Debug\netcoreapp3.1\LAB4VECTOR3D.csprojAssemblyReference.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 4\LAB4VECTOR3D\obj\Debug\netcoreapp3.1\LAB4VECTOR3D.AssemblyInfoInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 4\LAB4VECTOR3D\obj\Debug\netcoreapp3.1\LAB4VECTOR3D.AssemblyInfo.cs
+C:\Users\37533\Desktop\EPAM LAB\LESSON 4\LAB4VECTOR3D\obj\Debug\netcoreapp3.1\LAB4VECTOR3D.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 4\LAB4VECTOR3D\obj\Debug\netcoreapp3.1\LAB4VECTOR3D.dll
+C:\Users\37533\Desktop\EPAM LAB\LESSON 4\LAB4VECTOR3D\obj\Debug\netcoreapp3.1\LAB4VECTOR3D.pdb
+C:\Users\37533\Desktop\EPAM LAB\LESSON 4\LAB4VECTOR3D\obj\Debug\netcoreapp3.1\LAB4VECTOR3D.genruntimeconfig.cache
