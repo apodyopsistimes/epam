@@ -1,0 +1,14 @@
+C:\Users\37533\source\repos\ConsoleTimerN17\TimerConsoleN7\bin\Debug\TimerConsoleN7.exe.config
+C:\Users\37533\source\repos\ConsoleTimerN17\TimerConsoleN7\bin\Debug\TimerConsoleN7.exe
+C:\Users\37533\source\repos\ConsoleTimerN17\TimerConsoleN7\bin\Debug\TimerConsoleN7.pdb
+C:\Users\37533\source\repos\ConsoleTimerN17\TimerConsoleN7\obj\Debug\TimerConsoleN7.csprojAssemblyReference.cache
+C:\Users\37533\source\repos\ConsoleTimerN17\TimerConsoleN7\obj\Debug\TimerConsoleN7.csproj.CoreCompileInputs.cache
+C:\Users\37533\source\repos\ConsoleTimerN17\TimerConsoleN7\obj\Debug\TimerConsoleN7.exe
+C:\Users\37533\source\repos\ConsoleTimerN17\TimerConsoleN7\obj\Debug\TimerConsoleN7.pdb
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\2 Часть задания N7.2 (Timer)\Лабораторная\ConsoleTimerN7\TimerConsoleN7\bin\Debug\TimerConsoleN7.exe.config
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\2 Часть задания N7.2 (Timer)\Лабораторная\ConsoleTimerN7\TimerConsoleN7\bin\Debug\TimerConsoleN7.exe
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\2 Часть задания N7.2 (Timer)\Лабораторная\ConsoleTimerN7\TimerConsoleN7\bin\Debug\TimerConsoleN7.pdb
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\2 Часть задания N7.2 (Timer)\Лабораторная\ConsoleTimerN7\TimerConsoleN7\obj\Debug\TimerConsoleN7.csprojAssemblyReference.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\2 Часть задания N7.2 (Timer)\Лабораторная\ConsoleTimerN7\TimerConsoleN7\obj\Debug\TimerConsoleN7.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\2 Часть задания N7.2 (Timer)\Лабораторная\ConsoleTimerN7\TimerConsoleN7\obj\Debug\TimerConsoleN7.exe
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\2 Часть задания N7.2 (Timer)\Лабораторная\ConsoleTimerN7\TimerConsoleN7\obj\Debug\TimerConsoleN7.pdb
