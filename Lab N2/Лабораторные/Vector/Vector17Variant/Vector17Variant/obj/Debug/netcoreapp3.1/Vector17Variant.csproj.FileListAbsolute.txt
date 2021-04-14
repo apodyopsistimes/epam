@@ -1,0 +1,39 @@
+C:\Users\37533\source\repos\Vector17Variant\Vector17Variant\bin\Debug\netcoreapp3.1\Vector17Variant.exe
+C:\Users\37533\source\repos\Vector17Variant\Vector17Variant\bin\Debug\netcoreapp3.1\Vector17Variant.deps.json
+C:\Users\37533\source\repos\Vector17Variant\Vector17Variant\bin\Debug\netcoreapp3.1\Vector17Variant.runtimeconfig.json
+C:\Users\37533\source\repos\Vector17Variant\Vector17Variant\bin\Debug\netcoreapp3.1\Vector17Variant.runtimeconfig.dev.json
+C:\Users\37533\source\repos\Vector17Variant\Vector17Variant\bin\Debug\netcoreapp3.1\Vector17Variant.dll
+C:\Users\37533\source\repos\Vector17Variant\Vector17Variant\bin\Debug\netcoreapp3.1\Vector17Variant.pdb
+C:\Users\37533\source\repos\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.csprojAssemblyReference.cache
+C:\Users\37533\source\repos\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.AssemblyInfoInputs.cache
+C:\Users\37533\source\repos\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.AssemblyInfo.cs
+C:\Users\37533\source\repos\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.csproj.CoreCompileInputs.cache
+C:\Users\37533\source\repos\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.dll
+C:\Users\37533\source\repos\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.pdb
+C:\Users\37533\source\repos\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.genruntimeconfig.cache
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Векторы\Vector17Variant\Vector17Variant\bin\Debug\netcoreapp3.1\Vector17Variant.exe
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Векторы\Vector17Variant\Vector17Variant\bin\Debug\netcoreapp3.1\Vector17Variant.deps.json
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Векторы\Vector17Variant\Vector17Variant\bin\Debug\netcoreapp3.1\Vector17Variant.runtimeconfig.json
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Векторы\Vector17Variant\Vector17Variant\bin\Debug\netcoreapp3.1\Vector17Variant.runtimeconfig.dev.json
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Векторы\Vector17Variant\Vector17Variant\bin\Debug\netcoreapp3.1\Vector17Variant.dll
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Векторы\Vector17Variant\Vector17Variant\bin\Debug\netcoreapp3.1\Vector17Variant.pdb
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Векторы\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.csprojAssemblyReference.cache
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Векторы\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.AssemblyInfoInputs.cache
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Векторы\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.AssemblyInfo.cs
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Векторы\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Векторы\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.dll
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Векторы\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.pdb
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Векторы\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.genruntimeconfig.cache
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Векторы\Vector17Variant\Vector17Variant\bin\Debug\netcoreapp3.1\Vector17Variant.exe
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Векторы\Vector17Variant\Vector17Variant\bin\Debug\netcoreapp3.1\Vector17Variant.deps.json
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Векторы\Vector17Variant\Vector17Variant\bin\Debug\netcoreapp3.1\Vector17Variant.runtimeconfig.json
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Векторы\Vector17Variant\Vector17Variant\bin\Debug\netcoreapp3.1\Vector17Variant.runtimeconfig.dev.json
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Векторы\Vector17Variant\Vector17Variant\bin\Debug\netcoreapp3.1\Vector17Variant.dll
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Векторы\Vector17Variant\Vector17Variant\bin\Debug\netcoreapp3.1\Vector17Variant.pdb
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Векторы\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.csprojAssemblyReference.cache
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Векторы\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.AssemblyInfoInputs.cache
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Векторы\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.AssemblyInfo.cs
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Векторы\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Векторы\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.dll
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Векторы\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.pdb
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Векторы\Vector17Variant\Vector17Variant\obj\Debug\netcoreapp3.1\Vector17Variant.genruntimeconfig.cache

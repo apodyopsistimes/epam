@@ -1,0 +1,39 @@
+C:\Users\37533\source\repos\STROKA17VARIANT\STROKA17VARIANT\bin\Debug\netcoreapp3.1\STROKA17VARIANT.exe
+C:\Users\37533\source\repos\STROKA17VARIANT\STROKA17VARIANT\bin\Debug\netcoreapp3.1\STROKA17VARIANT.deps.json
+C:\Users\37533\source\repos\STROKA17VARIANT\STROKA17VARIANT\bin\Debug\netcoreapp3.1\STROKA17VARIANT.runtimeconfig.json
+C:\Users\37533\source\repos\STROKA17VARIANT\STROKA17VARIANT\bin\Debug\netcoreapp3.1\STROKA17VARIANT.runtimeconfig.dev.json
+C:\Users\37533\source\repos\STROKA17VARIANT\STROKA17VARIANT\bin\Debug\netcoreapp3.1\STROKA17VARIANT.dll
+C:\Users\37533\source\repos\STROKA17VARIANT\STROKA17VARIANT\bin\Debug\netcoreapp3.1\STROKA17VARIANT.pdb
+C:\Users\37533\source\repos\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.csprojAssemblyReference.cache
+C:\Users\37533\source\repos\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.AssemblyInfoInputs.cache
+C:\Users\37533\source\repos\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.AssemblyInfo.cs
+C:\Users\37533\source\repos\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.csproj.CoreCompileInputs.cache
+C:\Users\37533\source\repos\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.dll
+C:\Users\37533\source\repos\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.pdb
+C:\Users\37533\source\repos\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.genruntimeconfig.cache
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\bin\Debug\netcoreapp3.1\STROKA17VARIANT.exe
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\bin\Debug\netcoreapp3.1\STROKA17VARIANT.deps.json
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\bin\Debug\netcoreapp3.1\STROKA17VARIANT.runtimeconfig.json
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\bin\Debug\netcoreapp3.1\STROKA17VARIANT.runtimeconfig.dev.json
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\bin\Debug\netcoreapp3.1\STROKA17VARIANT.dll
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\bin\Debug\netcoreapp3.1\STROKA17VARIANT.pdb
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.csprojAssemblyReference.cache
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.AssemblyInfoInputs.cache
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.AssemblyInfo.cs
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.dll
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.pdb
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.genruntimeconfig.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\bin\Debug\netcoreapp3.1\STROKA17VARIANT.exe
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\bin\Debug\netcoreapp3.1\STROKA17VARIANT.deps.json
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\bin\Debug\netcoreapp3.1\STROKA17VARIANT.runtimeconfig.json
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\bin\Debug\netcoreapp3.1\STROKA17VARIANT.runtimeconfig.dev.json
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\bin\Debug\netcoreapp3.1\STROKA17VARIANT.dll
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\bin\Debug\netcoreapp3.1\STROKA17VARIANT.pdb
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.csprojAssemblyReference.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.AssemblyInfoInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.AssemblyInfo.cs
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.dll
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.pdb
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Строки\STROKA17VARIANT\STROKA17VARIANT\obj\Debug\netcoreapp3.1\STROKA17VARIANT.genruntimeconfig.cache

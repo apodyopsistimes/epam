@@ -1,0 +1,65 @@
+C:\Users\37533\source\repos\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.exe
+C:\Users\37533\source\repos\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.deps.json
+C:\Users\37533\source\repos\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.runtimeconfig.json
+C:\Users\37533\source\repos\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.runtimeconfig.dev.json
+C:\Users\37533\source\repos\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.dll
+C:\Users\37533\source\repos\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.pdb
+C:\Users\37533\source\repos\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.csprojAssemblyReference.cache
+C:\Users\37533\source\repos\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.AssemblyInfoInputs.cache
+C:\Users\37533\source\repos\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.AssemblyInfo.cs
+C:\Users\37533\source\repos\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.csproj.CoreCompileInputs.cache
+C:\Users\37533\source\repos\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.dll
+C:\Users\37533\source\repos\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.pdb
+C:\Users\37533\source\repos\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.genruntimeconfig.cache
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.exe
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.deps.json
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.runtimeconfig.json
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.runtimeconfig.dev.json
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.dll
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.pdb
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.csprojAssemblyReference.cache
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.AssemblyInfoInputs.cache
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.AssemblyInfo.cs
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.dll
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.pdb
+C:\Users\37533\Desktop\EPAM MASSIV\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.genruntimeconfig.cache
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.exe
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.deps.json
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.runtimeconfig.json
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.runtimeconfig.dev.json
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.dll
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.pdb
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.csprojAssemblyReference.cache
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.AssemblyInfoInputs.cache
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.AssemblyInfo.cs
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.dll
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.pdb
+C:\Users\37533\Desktop\EPAM MASSIV\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.genruntimeconfig.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.exe
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.deps.json
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.runtimeconfig.json
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.runtimeconfig.dev.json
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.dll
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.pdb
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.csprojAssemblyReference.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.AssemblyInfoInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.AssemblyInfo.cs
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.dll
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.pdb
+C:\Users\37533\Desktop\EPAM LAB\LESSON 2\Лабораторные\Матрицы\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.genruntimeconfig.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N2\Лабораторные\Matrix\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.exe
+C:\Users\37533\Desktop\EPAM LAB\Lab N2\Лабораторные\Matrix\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.deps.json
+C:\Users\37533\Desktop\EPAM LAB\Lab N2\Лабораторные\Matrix\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.runtimeconfig.json
+C:\Users\37533\Desktop\EPAM LAB\Lab N2\Лабораторные\Matrix\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.runtimeconfig.dev.json
+C:\Users\37533\Desktop\EPAM LAB\Lab N2\Лабораторные\Matrix\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.dll
+C:\Users\37533\Desktop\EPAM LAB\Lab N2\Лабораторные\Matrix\MATRIX17VARIANT\MATRIX17VARIANT\bin\Debug\netcoreapp3.1\MATRIX17VARIANT.pdb
+C:\Users\37533\Desktop\EPAM LAB\Lab N2\Лабораторные\Matrix\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.csprojAssemblyReference.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N2\Лабораторные\Matrix\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.AssemblyInfoInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N2\Лабораторные\Matrix\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.AssemblyInfo.cs
+C:\Users\37533\Desktop\EPAM LAB\Lab N2\Лабораторные\Matrix\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N2\Лабораторные\Matrix\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.dll
+C:\Users\37533\Desktop\EPAM LAB\Lab N2\Лабораторные\Matrix\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.pdb
+C:\Users\37533\Desktop\EPAM LAB\Lab N2\Лабораторные\Matrix\MATRIX17VARIANT\MATRIX17VARIANT\obj\Debug\netcoreapp3.1\MATRIX17VARIANT.genruntimeconfig.cache
