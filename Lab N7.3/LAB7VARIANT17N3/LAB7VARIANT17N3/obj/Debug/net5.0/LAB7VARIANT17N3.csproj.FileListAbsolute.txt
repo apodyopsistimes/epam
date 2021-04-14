@@ -1,0 +1,32 @@
+C:\Users\37533\source\repos\LAB7VARIANT17N3\LAB7VARIANT17N3\bin\Debug\net5.0\LAB7VARIANT17N3.exe
+C:\Users\37533\source\repos\LAB7VARIANT17N3\LAB7VARIANT17N3\bin\Debug\net5.0\LAB7VARIANT17N3.deps.json
+C:\Users\37533\source\repos\LAB7VARIANT17N3\LAB7VARIANT17N3\bin\Debug\net5.0\LAB7VARIANT17N3.runtimeconfig.json
+C:\Users\37533\source\repos\LAB7VARIANT17N3\LAB7VARIANT17N3\bin\Debug\net5.0\LAB7VARIANT17N3.runtimeconfig.dev.json
+C:\Users\37533\source\repos\LAB7VARIANT17N3\LAB7VARIANT17N3\bin\Debug\net5.0\LAB7VARIANT17N3.dll
+C:\Users\37533\source\repos\LAB7VARIANT17N3\LAB7VARIANT17N3\bin\Debug\net5.0\ref\LAB7VARIANT17N3.dll
+C:\Users\37533\source\repos\LAB7VARIANT17N3\LAB7VARIANT17N3\bin\Debug\net5.0\LAB7VARIANT17N3.pdb
+C:\Users\37533\source\repos\LAB7VARIANT17N3\LAB7VARIANT17N3\obj\Debug\net5.0\LAB7VARIANT17N3.csprojAssemblyReference.cache
+C:\Users\37533\source\repos\LAB7VARIANT17N3\LAB7VARIANT17N3\obj\Debug\net5.0\LAB7VARIANT17N3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37533\source\repos\LAB7VARIANT17N3\LAB7VARIANT17N3\obj\Debug\net5.0\LAB7VARIANT17N3.AssemblyInfoInputs.cache
+C:\Users\37533\source\repos\LAB7VARIANT17N3\LAB7VARIANT17N3\obj\Debug\net5.0\LAB7VARIANT17N3.AssemblyInfo.cs
+C:\Users\37533\source\repos\LAB7VARIANT17N3\LAB7VARIANT17N3\obj\Debug\net5.0\LAB7VARIANT17N3.csproj.CoreCompileInputs.cache
+C:\Users\37533\source\repos\LAB7VARIANT17N3\LAB7VARIANT17N3\obj\Debug\net5.0\LAB7VARIANT17N3.dll
+C:\Users\37533\source\repos\LAB7VARIANT17N3\LAB7VARIANT17N3\obj\Debug\net5.0\ref\LAB7VARIANT17N3.dll
+C:\Users\37533\source\repos\LAB7VARIANT17N3\LAB7VARIANT17N3\obj\Debug\net5.0\LAB7VARIANT17N3.pdb
+C:\Users\37533\source\repos\LAB7VARIANT17N3\LAB7VARIANT17N3\obj\Debug\net5.0\LAB7VARIANT17N3.genruntimeconfig.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N3\LAB7VARIANT17N3\bin\Debug\net5.0\LAB7VARIANT17N3.exe
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N3\LAB7VARIANT17N3\bin\Debug\net5.0\LAB7VARIANT17N3.deps.json
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N3\LAB7VARIANT17N3\bin\Debug\net5.0\LAB7VARIANT17N3.runtimeconfig.json
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N3\LAB7VARIANT17N3\bin\Debug\net5.0\LAB7VARIANT17N3.runtimeconfig.dev.json
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N3\LAB7VARIANT17N3\bin\Debug\net5.0\LAB7VARIANT17N3.dll
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N3\LAB7VARIANT17N3\bin\Debug\net5.0\ref\LAB7VARIANT17N3.dll
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N3\LAB7VARIANT17N3\bin\Debug\net5.0\LAB7VARIANT17N3.pdb
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N3\LAB7VARIANT17N3\obj\Debug\net5.0\LAB7VARIANT17N3.csprojAssemblyReference.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N3\LAB7VARIANT17N3\obj\Debug\net5.0\LAB7VARIANT17N3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N3\LAB7VARIANT17N3\obj\Debug\net5.0\LAB7VARIANT17N3.AssemblyInfoInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N3\LAB7VARIANT17N3\obj\Debug\net5.0\LAB7VARIANT17N3.AssemblyInfo.cs
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N3\LAB7VARIANT17N3\obj\Debug\net5.0\LAB7VARIANT17N3.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N3\LAB7VARIANT17N3\obj\Debug\net5.0\LAB7VARIANT17N3.dll
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N3\LAB7VARIANT17N3\obj\Debug\net5.0\ref\LAB7VARIANT17N3.dll
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N3\LAB7VARIANT17N3\obj\Debug\net5.0\LAB7VARIANT17N3.pdb
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N3\LAB7VARIANT17N3\obj\Debug\net5.0\LAB7VARIANT17N3.genruntimeconfig.cache
