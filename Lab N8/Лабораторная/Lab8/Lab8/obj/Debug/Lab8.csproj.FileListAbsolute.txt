@@ -1,0 +1,14 @@
+C:\Users\37533\source\repos\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\37533\source\repos\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Users\37533\source\repos\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Users\37533\source\repos\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+C:\Users\37533\source\repos\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\37533\source\repos\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Users\37533\source\repos\Lab8\Lab8\obj\Debug\Lab8.pdb
+C:\Users\37533\Desktop\EPAM LAB\Lab N8\Лабораторная\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\37533\Desktop\EPAM LAB\Lab N8\Лабораторная\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Users\37533\Desktop\EPAM LAB\Lab N8\Лабораторная\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Users\37533\Desktop\EPAM LAB\Lab N8\Лабораторная\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N8\Лабораторная\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N8\Лабораторная\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Users\37533\Desktop\EPAM LAB\Lab N8\Лабораторная\Lab8\Lab8\obj\Debug\Lab8.pdb
