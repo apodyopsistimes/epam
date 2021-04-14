@@ -1,0 +1,39 @@
+C:\Users\37533\source\repos\LAB7VARIANT17\LAB7VARIANT17\bin\Debug\netcoreapp3.1\LAB7VARIANT17.exe
+C:\Users\37533\source\repos\LAB7VARIANT17\LAB7VARIANT17\bin\Debug\netcoreapp3.1\LAB7VARIANT17.deps.json
+C:\Users\37533\source\repos\LAB7VARIANT17\LAB7VARIANT17\bin\Debug\netcoreapp3.1\LAB7VARIANT17.runtimeconfig.json
+C:\Users\37533\source\repos\LAB7VARIANT17\LAB7VARIANT17\bin\Debug\netcoreapp3.1\LAB7VARIANT17.runtimeconfig.dev.json
+C:\Users\37533\source\repos\LAB7VARIANT17\LAB7VARIANT17\bin\Debug\netcoreapp3.1\LAB7VARIANT17.dll
+C:\Users\37533\source\repos\LAB7VARIANT17\LAB7VARIANT17\bin\Debug\netcoreapp3.1\LAB7VARIANT17.pdb
+C:\Users\37533\source\repos\LAB7VARIANT17\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.csprojAssemblyReference.cache
+C:\Users\37533\source\repos\LAB7VARIANT17\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.AssemblyInfoInputs.cache
+C:\Users\37533\source\repos\LAB7VARIANT17\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.AssemblyInfo.cs
+C:\Users\37533\source\repos\LAB7VARIANT17\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.csproj.CoreCompileInputs.cache
+C:\Users\37533\source\repos\LAB7VARIANT17\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.dll
+C:\Users\37533\source\repos\LAB7VARIANT17\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.pdb
+C:\Users\37533\source\repos\LAB7VARIANT17\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.genruntimeconfig.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 7\LAB7VARIANT17N2\LAB7VARIANT17\bin\Debug\netcoreapp3.1\LAB7VARIANT17.exe
+C:\Users\37533\Desktop\EPAM LAB\LESSON 7\LAB7VARIANT17N2\LAB7VARIANT17\bin\Debug\netcoreapp3.1\LAB7VARIANT17.deps.json
+C:\Users\37533\Desktop\EPAM LAB\LESSON 7\LAB7VARIANT17N2\LAB7VARIANT17\bin\Debug\netcoreapp3.1\LAB7VARIANT17.runtimeconfig.json
+C:\Users\37533\Desktop\EPAM LAB\LESSON 7\LAB7VARIANT17N2\LAB7VARIANT17\bin\Debug\netcoreapp3.1\LAB7VARIANT17.runtimeconfig.dev.json
+C:\Users\37533\Desktop\EPAM LAB\LESSON 7\LAB7VARIANT17N2\LAB7VARIANT17\bin\Debug\netcoreapp3.1\LAB7VARIANT17.dll
+C:\Users\37533\Desktop\EPAM LAB\LESSON 7\LAB7VARIANT17N2\LAB7VARIANT17\bin\Debug\netcoreapp3.1\LAB7VARIANT17.pdb
+C:\Users\37533\Desktop\EPAM LAB\LESSON 7\LAB7VARIANT17N2\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.csprojAssemblyReference.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 7\LAB7VARIANT17N2\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.AssemblyInfoInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 7\LAB7VARIANT17N2\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.AssemblyInfo.cs
+C:\Users\37533\Desktop\EPAM LAB\LESSON 7\LAB7VARIANT17N2\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\LESSON 7\LAB7VARIANT17N2\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.dll
+C:\Users\37533\Desktop\EPAM LAB\LESSON 7\LAB7VARIANT17N2\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.pdb
+C:\Users\37533\Desktop\EPAM LAB\LESSON 7\LAB7VARIANT17N2\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.genruntimeconfig.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N2\LAB7VARIANT17\bin\Debug\netcoreapp3.1\LAB7VARIANT17.exe
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N2\LAB7VARIANT17\bin\Debug\netcoreapp3.1\LAB7VARIANT17.deps.json
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N2\LAB7VARIANT17\bin\Debug\netcoreapp3.1\LAB7VARIANT17.runtimeconfig.json
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N2\LAB7VARIANT17\bin\Debug\netcoreapp3.1\LAB7VARIANT17.runtimeconfig.dev.json
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N2\LAB7VARIANT17\bin\Debug\netcoreapp3.1\LAB7VARIANT17.dll
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N2\LAB7VARIANT17\bin\Debug\netcoreapp3.1\LAB7VARIANT17.pdb
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N2\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.csprojAssemblyReference.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N2\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.AssemblyInfoInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N2\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.AssemblyInfo.cs
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N2\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N2\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.dll
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N2\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.pdb
+C:\Users\37533\Desktop\EPAM LAB\Lab N7\1 Часть задания N7.1 (ping pong)\Лабораторные\LAB7VARIANT17N2\LAB7VARIANT17\obj\Debug\netcoreapp3.1\LAB7VARIANT17.genruntimeconfig.cache
