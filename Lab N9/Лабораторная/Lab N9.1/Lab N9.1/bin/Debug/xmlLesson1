@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <line num="0">
+    <word num="0">When</word>
+    <word num="1">you</word>
+    <word num="2">start</word>
+    <word num="3">thinking</word>
+    <word num="4">a</word>
+    <word num="5">lot</word>
+    <word num="6">about</word>
+    <word num="7">your</word>
+    <word num="8">past</word>
+  </line>
+  <line num="1">
+    <word num="0">it</word>
+    <word num="1">becomes</word>
+    <word num="2">your</word>
+    <word num="3">present</word>
+  </line>
+  <line num="2">
+    <word num="0">and</word>
+    <word num="1">you</word>
+    <word num="2">can’t</word>
+    <word num="3">see</word>
+    <word num="4">your</word>
+    <word num="5">future</word>
+    <word num="6">without</word>
+    <word num="7">it</word>
+  </line>
+</root>

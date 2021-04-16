@@ -1,0 +1,7 @@
+C:\Users\37533\Desktop\EPAM LAB\Lab N9\Лабораторная\Lab N9.1\Lab N9.1\bin\Debug\Lab N9.1.exe.config
+C:\Users\37533\Desktop\EPAM LAB\Lab N9\Лабораторная\Lab N9.1\Lab N9.1\bin\Debug\Lab N9.1.exe
+C:\Users\37533\Desktop\EPAM LAB\Lab N9\Лабораторная\Lab N9.1\Lab N9.1\bin\Debug\Lab N9.1.pdb
+C:\Users\37533\Desktop\EPAM LAB\Lab N9\Лабораторная\Lab N9.1\Lab N9.1\obj\Debug\Lab N9.1.csprojAssemblyReference.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N9\Лабораторная\Lab N9.1\Lab N9.1\obj\Debug\Lab N9.1.csproj.CoreCompileInputs.cache
+C:\Users\37533\Desktop\EPAM LAB\Lab N9\Лабораторная\Lab N9.1\Lab N9.1\obj\Debug\Lab N9.1.exe
+C:\Users\37533\Desktop\EPAM LAB\Lab N9\Лабораторная\Lab N9.1\Lab N9.1\obj\Debug\Lab N9.1.pdb
